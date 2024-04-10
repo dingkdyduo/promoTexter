@@ -1,1 +1,2 @@
-const index require("src/index.js")
+const index =  require("src/index.js")
+ 
